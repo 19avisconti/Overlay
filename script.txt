@@ -7,3 +7,4 @@ Text auto-scales to fill the screen, so your content is always as large as it ca
 You can cycle through any script one group of sentences at a time using the arrow keys or spacebar.
 I built this as a teleprompter-style tool for demos, presentations, and recordings.
 The whole thing is open and easy to extend — swap in any text file and you're ready to go.
+Isn't that cool?
