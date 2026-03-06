@@ -1,0 +1,9 @@
+Hi, my name is Drew, and I'd like to introduce Overlay.
+Overlay is a macOS app that displays a transparent, click-through text window over your entire screen.
+It's built in Python using pyobjc, the same native AppKit bindings that power macOS apps written in Swift.
+The window floats above every other app and stays visible even over fullscreen apps and across all your Spaces.
+Because the window ignores mouse events, you can click, type, and interact with everything beneath it as normal.
+Text auto-scales to fill the screen, so your content is always as large as it can be.
+You can cycle through any script one group of sentences at a time using the arrow keys or spacebar.
+I built this as a teleprompter-style tool for demos, presentations, and recordings.
+The whole thing is open and easy to extend — swap in any text file and you're ready to go.
